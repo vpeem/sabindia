@@ -1,5 +1,5 @@
 Welcome to The Science Association of Bengal
 
-Our Site <a href=sabindia.online> SAB</a>
+Our Site <a href=https://sabindia.online> SAB</a>
 
-Study Mat sabindia.online/studymat.html
+<a href=https://sabindia.online/studymat.html> Study Mat</a> 
