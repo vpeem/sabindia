@@ -18,6 +18,10 @@ Install -> Reboot
 
 win+ R 
 
-Type CMD
+Type CMD -> Click Ok
 
-ollama pull llama3.2:1b
+Copy the following line and paste on the prompt and press enter
+
+ollama pull llama3.2:1b 
+
+It will take some time to download - Close the Command Prompt Window to complete 
