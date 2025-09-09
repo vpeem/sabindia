@@ -6,6 +6,8 @@ Our Site <a href=https://sabindia.online> SAB</a>
 
 <a href=https://online.fliphtml5.com/nhlgy/lbkv/>Study Mat</a>
 
+<a href=https://docs.google.com/forms/d/e/1FAIpQLSfJj2TwbM8n22Ko9OvHxxmB0aKQs5FWbP2uAs-eu0lhLEDDzA/viewform?usp=sharing&ouid=101591491271445155520>Feedback Link Day 1 <a>
+
 Python 3.9
 
 ollama 
