@@ -12,6 +12,10 @@ Our Site <a href=https://sabindia.online> SAB</a>
 
 Python 3.9
 
+Link for Downlad
+
+https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe
+
 ollama 
 
 Install -> Reboot
