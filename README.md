@@ -33,3 +33,6 @@ Copy the following line and paste on the prompt and press enter
 ollama pull llama3.2:1b 
 
 It will take some time to download - Close the Command Prompt Window to complete 
+
+Custom GPT LINK
+https://chatgpt.com/g/g-68c2909f7fc48191bf53164ebea17af6-west-bengal-csc-rules
