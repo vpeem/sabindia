@@ -35,4 +35,21 @@ ollama pull llama3.2:1b
 It will take some time to download - Close the Command Prompt Window to complete 
 
 Custom GPT LINK
+
 https://chatgpt.com/g/g-68c2909f7fc48191bf53164ebea17af6-west-bengal-csc-rules
+
+Links Discussed in Day 3
+
+https://chat.deepseek.com/
+
+Gamma.app	
+
+https://app.yoodli.ai/
+
+https://notebooklm.google.com/
+
+https://openart.ai/create
+
+DALL-E Introduction Video
+
+https://www.youtube.com/watch?v=qTgPSKKjfVg
