@@ -1,16 +1,16 @@
-Welcome to The Science Association of Bengal
+<h1> Hands on Workshop on AI in Academia and Administration organised by IQAC, Gokhel Memorial Girl's College, Kolkata</h1>
 
-Our Site <a href=https://sabindia.online> SAB</a>
+<h1>Welcome to The Science Association of Bengal</h1>
 
-Whattsapp Community Invite Link
+<b>Web site of SAB - <a href=https://sabindia.online> Click Here </a><b>
+<hr>
+<h2>Whattsapp Community Invite Link of AI Community</h2>
 https://chat.whatsapp.com/FN4b9rqhgQ0GsqkKY5A59w
-
-Communication Details
-
+<hr>
+<h2>Communication Details</h2>
 Dr. Subhabrata Roychowdhury- +917044635373 - sabsrc@yahoo.com 
-
-Dr.Parijat Chakraborty- 9051408304 - director@vpeemconsultants.in / parijat.chakraborty@gmail.com 
-
+Dr.Parijat Chakraborty- +919051408304 - director@vpeemconsultants.in / parijat.chakraborty@gmail.com 
+<hr>
 <a href=https://sabindia.online/studymat.html> Study Mat</a> 
 
 <a href=https://online.fliphtml5.com/nhlgy/lbkv/>Study Mat</a>
@@ -29,9 +29,9 @@ Link for Downlad
 
 https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe
 
-ollama 
+<h2>Ollama</h2> 
 
-Link for Download
+<h3>Link for Download</h3>
 
 https://ollama.com/download/OllamaSetup.exe
 
@@ -47,15 +47,15 @@ ollama pull llama3.2:1b
 
 It will take some time to download - Close the Command Prompt Window to complete 
 
-Custom GPT LINK
+<h2>Custom GPT LINK Created Based on College Service Commision Rules PDFs</h2>
 
 https://chatgpt.com/g/g-68c2909f7fc48191bf53164ebea17af6-west-bengal-csc-rules
 
-Links Discussed in Day 3
+<h2>Links Discussed in Day 3</h2>
 
 https://chat.deepseek.com/
 
-Gamma.app	
+https://gamma.app	
 
 https://app.yoodli.ai/
 
@@ -63,14 +63,13 @@ https://notebooklm.google.com/
 
 https://openart.ai/create
 
-DALL-E Introduction Video
+<h2>DALL-E Introduction Video</h2>
 
 https://www.youtube.com/watch?v=qTgPSKKjfVg
 
 <h2>Prompt Engineering Guide</h2>
 
 https://www.promptingguide.ai/
-
 
 <h2>Other Links</h2>
 
