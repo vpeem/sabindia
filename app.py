@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
 # Set the openai API key for authentication with OpenAI.
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 # Initialize the LLM chat model. Here, we can declare other chat 
 # models also like Anthropic, Azure, Google Geminin, AWS, Groq, etc.
