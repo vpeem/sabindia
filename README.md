@@ -66,3 +66,15 @@ https://openart.ai/create
 DALL-E Introduction Video
 
 https://www.youtube.com/watch?v=qTgPSKKjfVg
+
+<h2>Prompt Engineering Guide</h2>
+
+https://www.promptingguide.ai/
+
+
+<h2>Other Links</h2>
+
+<b>Anthropic API, the Console, and Claude Code</b>
+
+https://docs.anthropic.com/en/home
+
