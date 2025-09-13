@@ -49,7 +49,7 @@ ollama pull llama3.2:1b
 It will take some time to download - Close the Command Prompt Window to complete 
 
 <h2>Custom GPT LINK Created Based on College Service Commision Rules PDFs</h2>
-<h4>Files Are Placed within Within (U+1F4C1 CSCF-> (U+1F4C1 PDF Files </h4>
+<h4>Files Are Placed within Within &#128193; CSCF-> &#128193; PDF Files </h4>
 
 https://chatgpt.com/g/g-68c2909f7fc48191bf53164ebea17af6-west-bengal-csc-rules
 
