@@ -69,13 +69,19 @@ https://openart.ai/create
 
 https://www.youtube.com/watch?v=qTgPSKKjfVg
 
-<h2>Prompt Engineering Guide</h2>
+<h2>Customised Interface and Dynamic Response from ChatGpt(Python-OpenAI API Key-Langchain-Streamlit)</h2>
 
-https://www.promptingguide.ai/
+Link for the Project &#8594; https://github.com/vpeem/sabindia/app.py
+<br> Requirements for the Project &#8594; Python 3.9.13 , Python Library (pip install)- langchain, langchain-openai, streamlit 
 
 <h2>Generative AI Based on Local Data (RAG-With-Python-Langchain-Ollama)</h2>
 
 Link for the Project &#8594; https://github.com/vpeem/sabindia/Gen-AI-Local-Search-main.zip
+<br> Put the PDF(Knowledge Base) into the &#128193; resources folder (within the package)
+
+<h2>Prompt Engineering Guide</h2>
+
+https://www.promptingguide.ai/
 
 <h2>Other Links</h2>
 
