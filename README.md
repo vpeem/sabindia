@@ -11,9 +11,9 @@ https://chat.whatsapp.com/FN4b9rqhgQ0GsqkKY5A59w
 Dr. Subhabrata Roychowdhury- +917044635373 - sabsrc@yahoo.com <br>
 Dr.Parijat Chakraborty- +919051408304 - director@vpeemconsultants.in / parijat.chakraborty@gmail.com 
 <hr>
-<a href=https://sabindia.online/studymat.html> Study Mat</a> 
+<a href=https://sabindia.online/studymat.html> Study Material Access with Password</a> 
 
-<a href=https://online.fliphtml5.com/nhlgy/lbkv/>Study Mat</a>
+<a href=https://online.fliphtml5.com/nhlgy/lbkv/>Study Material Backup Link</a>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJj2TwbM8n22Ko9OvHxxmB0aKQs5FWbP2uAs-eu0lhLEDDzA/viewform?usp=sharing&ouid=101591491271445155520"> Feedback Link Day 1 </a>
 
@@ -23,7 +23,7 @@ Dr.Parijat Chakraborty- +919051408304 - director@vpeemconsultants.in / parijat.c
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSce_te-PY7glFP0Im6wWzj1EcbxDR3hnN4twzlbAilS6prY0g/viewform?usp=sharing&ouid=101591491271445155520"> Feedback Link Day 4</a>
 
-Python 3.9
+<h2>Python 3.9</h2>
 
 Link for Downlad
 
