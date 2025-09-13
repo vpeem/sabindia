@@ -89,3 +89,5 @@ https://www.promptingguide.ai/
 
 https://docs.anthropic.com/en/home
 
+https://anotepad.com/page/b89e19e1573c4a41b37731eeeb8acfbb
+
