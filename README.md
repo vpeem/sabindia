@@ -75,7 +75,7 @@ https://www.promptingguide.ai/
 
 <h2>Generative AI Based on Local Data (RAG-With-Python-Langchain-Ollama)</h2>
 
-Link for the Project github.com/vpeem/sabindia/Gen-AI-Local-Search-main.zip
+Link for the Project &#8594; https://github.com/vpeem/sabindia/Gen-AI-Local-Search-main.zip
 
 <h2>Other Links</h2>
 
