@@ -2,7 +2,7 @@
 
 <h1>Welcome to The Science Association of Bengal</h1>
 
-<b>Web site of SAB - <a href=https://sabindia.online> Click Here </a><b>
+<b>Web site of SAB - <a href=https://sabindia.online> Click Here </a></b>
 <hr>
 <h2>Whattsapp Community Invite Link of AI Community</h2>
 https://chat.whatsapp.com/FN4b9rqhgQ0GsqkKY5A59w
