@@ -46,7 +46,33 @@ Copy the following line and paste on the prompt and press enter
 
 ollama pull llama3.2:1b 
 
-It will take some time to download - Close the Command Prompt Window to complete 
+It will take some time to download - Close the Command Prompt Window to complete
+
+<b>Testing Ollama Server</b>
+
+Open the Browser and open the URL
+
+http://127.0.0.1:11434
+
+It will show response to indicate Server operations. 
+
+<b> Accessing Ollama from Client Within Network</b>
+
+Install ChatBox AI 
+
+Open the Interface > Settings > Ollama API
+
+In the API URL give
+
+[Server URL/IP]:11434
+
+Below Click the Fetch Button in Model Selection Area
+
+The installed models in the Ollama Server will be shown in a list. Select by clicking the green + button.
+
+Now in the left panel Click on Just Chat to start using Ollama.
+
+The response will be fetched from the Server.
 
 <h2>Custom GPT LINK Created Based on College Service Commision Rules PDFs</h2>
 <h4>Files Are Placed within Within &#128193; CSCF-> &#128193; PDF Files </h4>
