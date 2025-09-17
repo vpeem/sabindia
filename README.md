@@ -64,7 +64,7 @@ Open the Interface > Settings > Ollama API
 
 In the API URL give
 
-[Server URL/IP]:11434
+Server URL/IP:11434
 
 Below Click the Fetch Button in Model Selection Area
 
