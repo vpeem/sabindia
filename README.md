@@ -79,6 +79,11 @@ The response will be fetched from the Server.
 
 https://chatgpt.com/g/g-68c2909f7fc48191bf53164ebea17af6-west-bengal-csc-rules
 
+<h2>Simple Demo of Machine Learning</h2>
+
+<a href="https://teachablemachine.withgoogle.com/"> Teachable Machine </a>
+
+
 <h2>Links Discussed in Day 3</h2>
 
 https://chat.deepseek.com/
